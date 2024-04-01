@@ -1,0 +1,5 @@
+This is the file that identifies all the characters, 
+and described their respective roles in the novel.
+
+It will be good platform to think through all the characters, 
+their respective interactions.
