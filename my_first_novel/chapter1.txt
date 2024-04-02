@@ -6,3 +6,4 @@ Just adding some additional text in the chapter1.txt here.
 This is a change across all text files created thus far
 add line on 'main' branch
 add line on 'master' branch
+add line on 'emptybranch' branch
