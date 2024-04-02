@@ -5,3 +5,5 @@ Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
 Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.
 
 This is a change across all text files created thus far
+add status line to chapter2.txt
+add second status line to chapter2.txt
