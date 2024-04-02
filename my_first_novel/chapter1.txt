@@ -3,3 +3,4 @@ Chapter 1 has started, and I am ready to start typing it away.
 Let's just put some lorem ipsum as placeholder text.
 
 Just adding some additional text in the chapter1.txt here.
+This is a change across all text files created thus far
