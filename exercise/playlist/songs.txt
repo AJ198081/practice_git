@@ -9,3 +9,4 @@ add two additional books to the playlist
 song on master branch
 song number 2 on master branch
 silence branch
+This is for the git diff command
