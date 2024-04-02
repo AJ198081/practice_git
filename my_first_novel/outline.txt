@@ -8,3 +8,4 @@ Interesting my outline appears to be a work in progress, as it has been going fo
 
 
 This is a change across all text files created thus far
+add another line to outline.txt
